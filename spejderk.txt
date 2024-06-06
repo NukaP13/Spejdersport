@@ -1,0 +1,4 @@
+('Dine informationer er:', 'Navn:', 'Ole', 'Tlf.nummer:', '71665544', 'Email:', 'Oleole@gmail.com', 'Adresse:', 'blablablavej')
+('Dine informationer er:', 'Navn:', 'Lars Larsen', 'Tlf.nummer:', '71616261', 'Email:', 'Larslarsen@gmail.com', 'Adresse:', 'Larsenvej')
+('Dine informationer er:', 'Navn:', 'Lars Lager', 'Tlf.nummer:', '24242424', 'Email:', 'LarsL@gmail.com', 'Adresse:', 'blavej')
+('Dine informationer er:', 'Navn:', 'Lars Lager', 'Tlf.nummer:', '61616161', 'Email:', 'LarsL@gmail.com', 'Adresse:', 'blavej')
